@@ -1,0 +1,12 @@
+.rodape {
+    display: flex;
+    justify-content: center;
+    background-color: var(--cor3);
+}
+
+.rodape-texto {
+    color: #fff;
+    text-transform: uppercase;
+    font-family: var(--fonte-padrao);
+    font-size: 12px;
+}
